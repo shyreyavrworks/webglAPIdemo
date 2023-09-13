@@ -21,7 +21,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"D:/workspace/New folder/webglpro/b;D:/workspace/New folder/webglpro/demo_build;D:/workspace/New folder/webglpro/bbb;E:/WORKSPACE/WebGL/webglpro/b3;E:/WORKSPACE/WebGL/webglpro/WebGL Builds/b;;;;;\"}"
+                "value": "{\"m_Value\":\"D:/workspace/New folder/GitDocs/webglAPI_Git/webglAPIdemo/build_api;D:/workspace/New folder/webglpro/b;D:/workspace/New folder/webglpro/demo_build;D:/workspace/New folder/webglpro/bbb;E:/WORKSPACE/WebGL/webglpro/b3;E:/WORKSPACE/WebGL/webglpro/WebGL Builds/b;;;;\"}"
             }
         ]
     }
